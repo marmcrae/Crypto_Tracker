@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Crypto_Tracker/static/css/main.b40cf1aa.chunk.css",
+    "main.js": "/Crypto_Tracker/static/js/main.15006ecf.chunk.js",
+    "main.js.map": "/Crypto_Tracker/static/js/main.15006ecf.chunk.js.map",
+    "runtime-main.js": "/Crypto_Tracker/static/js/runtime-main.5a4cfa60.js",
+    "runtime-main.js.map": "/Crypto_Tracker/static/js/runtime-main.5a4cfa60.js.map",
+    "static/js/2.86bab506.chunk.js": "/Crypto_Tracker/static/js/2.86bab506.chunk.js",
+    "static/js/2.86bab506.chunk.js.map": "/Crypto_Tracker/static/js/2.86bab506.chunk.js.map",
+    "index.html": "/Crypto_Tracker/index.html",
+    "precache-manifest.2e983f66cb739c69aed652fd99e516f1.js": "/Crypto_Tracker/precache-manifest.2e983f66cb739c69aed652fd99e516f1.js",
+    "service-worker.js": "/Crypto_Tracker/service-worker.js",
+    "static/css/main.b40cf1aa.chunk.css.map": "/Crypto_Tracker/static/css/main.b40cf1aa.chunk.css.map",
+    "static/js/2.86bab506.chunk.js.LICENSE.txt": "/Crypto_Tracker/static/js/2.86bab506.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a4cfa60.js",
+    "static/js/2.86bab506.chunk.js",
+    "static/css/main.b40cf1aa.chunk.css",
+    "static/js/main.15006ecf.chunk.js"
+  ]
+}
